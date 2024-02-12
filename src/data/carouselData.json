@@ -1,0 +1,16 @@
+{
+  "slides": [
+    {
+      "src": "https://apollo.olx.in/v1/files/qzt1izwhnt6c1-IN/image;s=780x0;q=60",
+      "alt": "Image 1 for carousel"
+    },
+    {
+      "src": "https://apollo.olx.in/v1/files/k5jl8uq55s2b1-IN/image;s=780x0;q=60",
+      "alt": "Image 2 for carousel"
+    },
+    {
+      "src": "https://apollo.olx.in/v1/files/exxlq27vfx1k2-IN/image;s=780x0;q=60",
+      "alt": "Image 3 for carousel"
+    }
+  ]
+}

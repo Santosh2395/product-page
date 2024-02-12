@@ -1,0 +1,6 @@
+/* Custom styles for slick slider */
+
+.slick-prev:before,
+.slick-next:before {
+  color: black !important;
+}
